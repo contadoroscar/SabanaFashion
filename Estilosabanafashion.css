@@ -1,0 +1,6 @@
+body{
+	font-family: Arial, sans-serif; padding: 35px; margin: 0 auto 
+	 }
+	 h1{text-overflow: 20; color: #65}
+	 h3{text-align: center;: 15}
+	 input[type="submit"]{background-color: #4CAF50;color: white; border: all; cursor: pointer;}
