@@ -1,7 +1,6 @@
 body{
-	font-family: Arial, ns-serif; padding: 35px; margin: 0 auto; color: rgb(255, 168, 183);
+	font-family: Arial, sans-serif; padding: 35px; margin: 0 auto 
 	 }
-	 h2{text-overflow: 20; color: rgb(250, 149, 166)}
-	 h3{text-align: center;}
+	 h1{text-overflow: 20; color: #65}
+	 h3{text-align: center;: 15}
 	 input[type="submit"]{background-color: #4CAF50;color: white; border: all; cursor: pointer;}
-	 header{font-style: italic; color: rgb(243, 85, 112); text-size-adjust: 35;}
