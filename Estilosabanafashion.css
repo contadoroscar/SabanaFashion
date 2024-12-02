@@ -4,4 +4,4 @@ body{
 	 h1{text-overflow: 20; color: rgb(250, 149, 166)}
 	 h3{text-align: center: 15}
 	 input[type="submit"]{background-color: #4CAF50;color: white; border: all; cursor: pointer;}
-	 h1{font-style: italic; color: rgb(243, 85, 112); text-size-adjust: 35;}
+	 header{font-style: italic; color: rgb(243, 85, 112); text-size-adjust: 35;}
