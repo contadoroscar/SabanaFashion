@@ -22,8 +22,8 @@ p{margin:auto; text-align: center;}
     margin-bottom: 20px;
 }
 /* Secciones de listas */
-.redes,
-.tasks {text-align: center;
+.redes ol,
+.formas ul {text-align: center;
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
