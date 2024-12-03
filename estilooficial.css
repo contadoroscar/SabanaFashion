@@ -8,3 +8,12 @@ body {
     background-color: #fa91db;
     color: #333;
     line-height: 1.6;
+}
+     
+    /* Encabezado */
+#SabanaFashion {
+    text-align: center;
+    padding: 20px;
+    background-color: #ecf0f1;
+    margin-bottom: 20px;
+}
