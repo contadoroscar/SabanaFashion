@@ -24,11 +24,3 @@ p{margin:auto; text-align: center;}
  li{text-align: center;}
  h4{text-align: center;}
 
-/* Secciones de listas */
-.redes,
-.formas {
-    padding: 20px;
-    margin: 20px auto;
-    max-width: 800px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);}
