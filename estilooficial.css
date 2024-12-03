@@ -18,8 +18,14 @@ body {
     margin-bottom: 20px;
 }
 
- #img {
-    max-width: 200px;
-    border-radius: 50%;
-    margin-top: 20px;
- }
+.container {
+    width: 100 px ;
+    height: 100 px ;
+   
+   img {
+        width: 150px ;
+        height: 150px ;
+        margin-top: auto;
+        
+   }
+}
