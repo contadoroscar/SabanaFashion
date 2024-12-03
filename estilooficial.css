@@ -10,22 +10,11 @@ body {
     line-height: 1.6;
 }
      
+h5{text-align: center;}
     /* Encabezado */
 #Sabana Fashion {
     text-align: center;
     padding: 20px;
     background-color: #ecf0f1;
     margin-bottom: 20px;
-}
-
-.container {
-    width: 100 px ;
-    height: 100 px ;
-   
-   img {
-        width: 150px ;
-        height: 150px ;
-        margin-top: auto;
-        
-   }
 }
