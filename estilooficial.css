@@ -21,11 +21,4 @@ p{margin:auto; text-align: center;}
     background-color: #ecf0f1;
     margin-bottom: 20px;
 }
-/* Secciones de listas */
-.redes ol,
-.formas ul {text-align: center;
-    padding: 20px;
-    margin: 20px auto;
-    max-width: 800px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);}
+li{text-align: center;}
