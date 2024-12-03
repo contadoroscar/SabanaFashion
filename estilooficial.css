@@ -21,5 +21,14 @@ p{margin:auto; text-align: center;}
     background-color: #ecf0f1;
     margin-bottom: 20px;
 }
-li{text-align: center;}
-h4{text-align: center;}
+ li{text-align: center;}
+ h4{text-align: center;}
+
+/* Secciones de listas */
+.hobbies,
+.tasks {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);}
