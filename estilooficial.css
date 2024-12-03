@@ -23,7 +23,7 @@ p{margin:auto; text-align: center;}
 }
 /* Secciones de listas */
 .redes,
-.tasks {
+.tasks {text-align: center;
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
