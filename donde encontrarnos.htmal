@@ -6,7 +6,7 @@
 	<meta name="bodega mayorista" content="ropa dama; ropa caballeros y niños; calazado.">
 	<title>Sabana-Fashión</title>
     <!-- iconos-->
- <link rel="stylesheet" href="estilooficial.css">
+ <link rel="stylesheet" href="">
 </head>
 <div class="align-self-center collapse navbar-collapse flex-fill  d-lg-flex justify-content-lg-between" id="templatemo_main_nav">
 					<div class="flex-fill">
