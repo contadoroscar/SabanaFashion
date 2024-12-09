@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="bodega mayorista" content="ropa dama; ropa caballeros y niños; calazado.">
+	<title>Sabana-Fashión</title>
+    <!-- iconos-->
+ <link rel="stylesheet" href="estilooficial.css">
+</head>
+<div class="align-self-center collapse navbar-collapse flex-fill  d-lg-flex justify-content-lg-between" id="templatemo_main_nav">
+					<div class="flex-fill">
+						<ul class="nav navbar-nav d-flex justify-content-between mx-lg-auto">
+							<li class="nav-item">
+								<a class="nav-link" href="index.html">Acerca de Nosotros</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="nuestros productos.html">Nuestros productos</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="">Donde Nos Puedes Encontrar</a>
+							</li>
+						</ul>
+					</div>
+
+<h3>Donde Nos Puedes Encontrar</h3>
+	<div></div> <P>Estamos ubicados en la siguiente direccion: Cra 21 #21-03 Barrio San Carlos, Sabanalarga-Atlántico
+		<br>
+	   Nuestro número de Telefono: 3045295825</p></section>
+	</div>
+
+	<div class="redes">
+        <h4>Redes Sociales</h4>
+            <ol>
+            <li>
+			<a href="https://www.facebook.com/nellyjohanaherrera?mibextid=ZbWKwL">Facebook</a><li>
+			<a href="https://chat.whatsapp.com/JMJF1sShwP82FjR8JFsP5v">Whatsap</a></li>
+		    </ol>
+	</div>
+            
+	 
+	 <div class="formas">
+		<H4>Formas de pago</H4>
+		    <ul>
+			<li>Efectivo
+			<li>Transferencia
+			<li>Nequi
+			<li>Daviplata
+			</ul>
+	 </div>
+     <hr>			
+     <hr>
+     <div>
