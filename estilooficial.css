@@ -30,3 +30,9 @@ button{size: 50px;}
 
 
 header{float: left;}
+
+.izq {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
