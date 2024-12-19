@@ -31,7 +31,7 @@ button{size: 50px;}
 
 header{float: left;}
 
-.izq {
+#izq {
     position: absolute;
     top: 15px;
     left: 15px;
